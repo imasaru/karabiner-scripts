@@ -1,0 +1,13 @@
+<?xml version="1.0"?>   
+<root>
+<item>
+          <name>Set 1: Button4 to Command+[ (Back)(BRACKET RIGHT JP)</name>
+          <identifier>remap.pointing_button4_to_command_bracket_right_jp</identifier>
+          <autogen>__KeyToKey__ PointingButton::BUTTON4, KeyCode::BRACKET_RIGHT, ModifierFlag::COMMAND_L</autogen>
+    </item>
+<item>
+          <name>Set 1: Button5 to Command+] (Forward)(BACKSLASH JP)</name>
+          <identifier>remap.pointing_button5_to_command_bracket_right_backslashjp</identifier>
+          <autogen>__KeyToKey__ PointingButton::BUTTON5, KeyCode::BACKSLASH, ModifierFlag::COMMAND_L</autogen>
+    </item>
+</root>
