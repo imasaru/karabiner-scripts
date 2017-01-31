@@ -1,11 +1,6 @@
 <?xml version="1.0"?>
 <root>
 <item>
-      <name>Shift_L to Forward Delete</name>
-      <identifier>remap.shiftL2forwarddelete</identifier>
-      <autogen>__KeyToKey__ KeyCode::SHIFT_L, KeyCode::DELETE, KeyCode::DELETE</autogen>
-    </item>
-<item>
       <name>Disable Danish Dollar</name>
       <identifier>remap.drop_danishdollar</identifier>
       <autogen>__KeyToKey__ KeyCode::DANISH_DOLLAR, KeyCode::VK_NONE</autogen>
